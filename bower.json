@@ -12,6 +12,9 @@
     "angular-material": "^1.0.0"
   },
   "devDependencies": {
-    "angular-material": "https://github.com/angular/bower-material.git#master"
+    "angular-material": "~1.0.1"
+  },
+  "resolutions": {
+    "angular-material": "master"
   }
 }
